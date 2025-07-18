@@ -1,14 +1,5 @@
 [
-  {
-    "pregunta": "¿Cuándo se firmó el acta fundacional?",
-    "opciones": [
-      "2002",
-      "1990",
-      "2007",
-      "2008"
-    ],
-    "respuesta_correcta": 2
-  },
+  
   {
     "pregunta": "¿Dónde fue el XXXV C.EE.T?",
     "opciones": [
@@ -39,6 +30,16 @@
     ],
     "respuesta_correcta": 0
   },
+   {
+  "pregunta": "¿Cuándo se firmó el acta fundacional?",
+    "opciones": [
+      "2002",
+      "1990",
+      "2007",
+      "2008"
+    ],
+    "respuesta_correcta": 2
+  },
   {
     "pregunta": "¿Cuál es el color del CEET?",
     "opciones": [
@@ -57,7 +58,7 @@
       "Mario",
       "Paco"
     ],
-    "respuesta_correcta": 1
+    "respuesta_correcta": 0
   },
   {
     "pregunta": "¿Cuánto puede durar el mandato de una presidencia como máximo?",
@@ -77,7 +78,7 @@
       "Los socios con mención honorífica",
       "Los representantes que ganaron las sustolimpiadas"
     ],
-    "respuesta_correcta": 2
+    "respuesta_correcta": 1
   },
   {
     "pregunta": "¿Cuántas comisiones tiene el CEET?",
@@ -145,7 +146,7 @@
       "3 - Presidencia, Vicepresidencia y Secretaría",
       "7 - Presidencia, Vicepresidencia Interna, Vicepresidencia Externa, Secretaría, Tesorería, Vocalía y Reglamentador.",
       "5 - Presidencia, Vicepresidencia, Secretaría, Tesorería y Vocalía",
-      "2 - Presidencia y Vocalía"
+      "5 - Presidencia, Vicepresidencia Interna, Vicepresidencia Externa, Secretaría y Tesorería"
     ],
     "respuesta_correcta": 2
   },
@@ -187,7 +188,7 @@
       "Patricia",
       "Luis"
     ],
-    "respuesta_correcta": 0
+    "respuesta_correcta": 1
   },
   {
     "pregunta": "¿Dónde está la sede del CEET?",
