@@ -7,7 +7,7 @@
       "2007",
       "2008"
     ],
-    "respuesta_correcta": 0
+    "respuesta_correcta": 2
   },
   {
     "pregunta": "¿Dónde fue el XXXV C.EE.T?",
@@ -17,7 +17,7 @@
       "Canarias",
       "Barcelona"
     ],
-    "respuesta_correcta": 0
+    "respuesta_correcta": 2
   },
   {
     "pregunta": "¿Qué significa RRI?",
@@ -37,7 +37,7 @@
       "Un random",
       "Un representante"
     ],
-    "respuesta_correcta": 1
+    "respuesta_correcta": 0
   },
   {
     "pregunta": "¿Cuál es el color del CEET?",
@@ -87,7 +87,7 @@
       "6 + 1 Organizadora",
       "5 + 2 Organizadoras"
     ],
-    "respuesta_correcta": 3
+    "respuesta_correcta": 1
   },
   {
     "pregunta": "¿Cuáles son las armas de debate que se usan en el CEET?",
@@ -97,7 +97,7 @@
       "Las emociones",
       "La humildad"
     ],
-    "respuesta_correcta": 0
+    "respuesta_correcta": 3
   },
   {
     "pregunta": "¿Cuál es la mascota del CEET?",
@@ -117,7 +117,7 @@
       "2001",
       "2012"
     ],
-    "respuesta_correcta": 2
+    "respuesta_correcta": 3
   },
   {
     "pregunta": "¿En qué año se hizo la primera feria de empresas ahora conocidas como ExpoTIC?",
@@ -127,7 +127,7 @@
       "2015",
       "2021"
     ],
-    "respuesta_correcta": 2
+    "respuesta_correcta": 0
   },
   {
     "pregunta": "Desde hace unos años en Navidad el CEET saca su:",
@@ -137,7 +137,7 @@
       "GaCEETa",
       "Discurso presidencial navideño"
     ],
-    "respuesta_correcta": 2
+    "respuesta_correcta": 1
   },
   {
     "pregunta": "¿Cuántos puestos hay en la Junta Directiva?",
@@ -147,7 +147,7 @@
       "5 - Presidencia, Vicepresidencia, Secretaría, Tesorería y Vocalía",
       "2 - Presidencia y Vocalía"
     ],
-    "respuesta_correcta": 1
+    "respuesta_correcta": 2
   },
   {
     "pregunta": "¿Cuál es el papel principal de la Vicepresidencia?",
@@ -167,7 +167,7 @@
       "UVigo",
       "UMA"
     ],
-    "respuesta_correcta": 0
+    "respuesta_correcta": 3
   },
   {
     "pregunta": "¿Dónde se fundaron las JFET?",
@@ -197,6 +197,6 @@
       "En un aula de la US",
       "Es una estantería del CEU San Pablo"
     ],
-    "respuesta_correcta": 3
+    "respuesta_correcta": 0
   }
 ]
