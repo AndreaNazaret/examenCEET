@@ -1,0 +1,202 @@
+[
+  {
+    "pregunta": "¿Cuándo se firmó el acta fundacional?",
+    "opciones": [
+      "2002",
+      "1990",
+      "2007",
+      "2008"
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "¿Dónde fue el XXXV C.EE.T?",
+    "opciones": [
+      "Vigo",
+      "Zaragoza",
+      "Canarias",
+      "Barcelona"
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "¿Qué significa RRI?",
+    "opciones": [
+      "Reglamento de Régimen Interno",
+      "Revisión de Responsabilidades Individuales",
+      "Relación de Reglas Interdepartamentales",
+      "Registro de Recursos Institucionales"
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "¿Quién era Larry?",
+    "opciones": [
+      "Un pescado",
+      "Un croissant",
+      "Un random",
+      "Un representante"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es el color del CEET?",
+    "opciones": [
+      "#0088FF",
+      "#279BBE",
+      "#55C2E2",
+      "#448EA5"
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "¿Quién es la CAR?",
+    "opciones": [
+      "Julio Luis",
+      "Álvaro",
+      "Mario",
+      "Paco"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "¿Cuánto puede durar el mandato de una presidencia como máximo?",
+    "opciones": [
+      "1 año",
+      "2 años consecutivos",
+      "3 años consecutivos",
+      "Hasta que deje de ser estudiante"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "¿Qué son los socios de honor?",
+    "opciones": [
+      "Los socios más antiguos",
+      "Los representantes que más aportaron",
+      "Los socios con mención honorífica",
+      "Los representantes que ganaron las sustolimpiadas"
+    ],
+    "respuesta_correcta": 2
+  },
+  {
+    "pregunta": "¿Cuántas comisiones tiene el CEET?",
+    "opciones": [
+      "4 + 2 Organizadoras",
+      "7 + 2 Organizadoras",
+      "6 + 1 Organizadora",
+      "5 + 2 Organizadoras"
+    ],
+    "respuesta_correcta": 3
+  },
+  {
+    "pregunta": "¿Cuáles son las armas de debate que se usan en el CEET?",
+    "opciones": [
+      "La palabra",
+      "Las espadas",
+      "Las emociones",
+      "La humildad"
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "¿Cuál es la mascota del CEET?",
+    "opciones": [
+      "Bitín el bit sonriente",
+      "Nita la antenita",
+      "Ceetina la narval",
+      "Magna la onda electromagnética"
+    ],
+    "respuesta_correcta": 2
+  },
+  {
+    "pregunta": "¿En qué año se adoptó el nombre CEET?",
+    "opciones": [
+      "2007",
+      "1990",
+      "2001",
+      "2012"
+    ],
+    "respuesta_correcta": 2
+  },
+  {
+    "pregunta": "¿En qué año se hizo la primera feria de empresas ahora conocidas como ExpoTIC?",
+    "opciones": [
+      "2019",
+      "2017",
+      "2015",
+      "2021"
+    ],
+    "respuesta_correcta": 2
+  },
+  {
+    "pregunta": "Desde hace unos años en Navidad el CEET saca su:",
+    "opciones": [
+      "Calendario de Adviento",
+      "Catálogo de Juguetes",
+      "GaCEETa",
+      "Discurso presidencial navideño"
+    ],
+    "respuesta_correcta": 2
+  },
+  {
+    "pregunta": "¿Cuántos puestos hay en la Junta Directiva?",
+    "opciones": [
+      "3 - Presidencia, Vicepresidencia y Secretaría",
+      "7 - Presidencia, Vicepresidencia Interna, Vicepresidencia Externa, Secretaría, Tesorería, Vocalía y Reglamentador.",
+      "5 - Presidencia, Vicepresidencia, Secretaría, Tesorería y Vocalía",
+      "2 - Presidencia y Vocalía"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es el papel principal de la Vicepresidencia?",
+    "opciones": [
+      "Servir de apoyo a la presidencia",
+      "Impartir las formaciones",
+      "Pasar lista",
+      "Dar permiso para ir al baño"
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "¿Cuál de estos no es un socio fundador?",
+    "opciones": [
+      "US",
+      "ULPGC",
+      "UVigo",
+      "UMA"
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "¿Dónde se fundaron las JFET?",
+    "opciones": [
+      "UMP Moncloa",
+      "UVigo",
+      "UMH",
+      "UPV Gandía"
+    ],
+    "respuesta_correcta": 3
+  },
+  {
+    "pregunta": "¿Cómo se llamaba el tesorero de 2020/21?",
+    "opciones": [
+      "Rodrigo",
+      "Sonia",
+      "Patricia",
+      "Luis"
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "¿Dónde está la sede del CEET?",
+    "opciones": [
+      "En la UPM Sur",
+      "En el sótano de la UVigo",
+      "En un aula de la US",
+      "Es una estantería del CEU San Pablo"
+    ],
+    "respuesta_correcta": 3
+  }
+]
